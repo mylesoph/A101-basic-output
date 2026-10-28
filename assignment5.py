@@ -1,0 +1,10 @@
+print("Ozymandias\nBy Percy Bysshe Shelley")
+print("I met a traveller from an antique land")
+print("Who said: Two vast and trunkless legs of stone\nStand in the desert. Near them, on the sand,")
+print("Half sunk, a shattered visage lies, whose frown,\nAnd wrinkled lip, and sneer of cold command,")
+print("Tell that its sculptor well those passions read\nWhich yet survive, stamped on these lifeless things,")
+print("The hand that mocked them and the heart that fed:\nAnd on the pedestal these words appear:")
+print("My name is Ozymandias, king of kings:\nLook on my works, ye Mighty, and despair!'")
+print("Nothing beside remains. Round the decay\nOf that colossal wreck, boundless and bare")
+print("The lone and level sands stretch far away.")
+
